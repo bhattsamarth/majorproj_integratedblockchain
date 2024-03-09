@@ -1,0 +1,19 @@
+exit()
+accounts.
+eth.getBalance(eth.accounts[0]
+)
+eth.sendTransaction({from: "0f08e033f3f7ff34f08c358f0c979bd2a12f0a9e", to: "0x3B728baEC1f4CFC347aA442d6241c4391e19c772", value: "12345"})
+eth.sendTransaction({from: "0f08e033f3f7ff34f08c358f0c979bd2a12f0a9e", to: "0x3B728baEC1f4CFC347aA442d6241c4391e19c772", value: "123"})
+eth.sendTransaction({from: "0f08e033f3f7ff34f08c358f0c979bd2a12f0a9e", to: "0x3B728baEC1f4CFC347aA442d6241c4391e19c772", value: "1"})
+transaction.estimateGas()
+eth.sendTransaction({from: "0f08e033f3f7ff34f08c358f0c979bd2a12f0a9e", to: "0x3B728baEC1f4CFC347aA442d6241c4391e19c772", value: "1"})
+eth.getBalance(eth.accounts[0]
+)
+eth.sendTransaction({ from: "2e489bc45db4d5258f14a320ff5d5427af7a0f81", to: "0acc53d7e235673523dc22ce42b442256130f6fe",  value: "12345"})
+eth.getBalance(account[1])
+eth.getBalance(eth.account[1])
+eth.getBalance(eth.accounts[1])
+eth.getBalance(eth.account[1])exit
+eth.getBalance(eth.accounts[0])
+eth_getBalance(eth.accounts[0])
+eth.getBalance(eth.accounts[0])

@@ -1,0 +1,1 @@
+geth --datadir . --networkid 12345 console --keystore ./keystore/ --unlock 0x2e489bc45db4d5258f14a320ff5d5427af7a0f81 --mine --password pass --miner.etherbase 0x2e489bc45db4d5258f14a320ff5d5427af7a0f81 --allow-insecure-unlock --http --http.addr "localhost" --http.corsdomain "*" --http.api "web3,eth,debug,personal,net"
